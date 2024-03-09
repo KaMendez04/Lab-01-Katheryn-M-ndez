@@ -1,0 +1,14 @@
+C:\Progra II\Lab 1.Katheryn Méndez\Lab 1.Katheryn Méndez\bin\Debug\net7.0\Lab 1.Katheryn Méndez.exe
+C:\Progra II\Lab 1.Katheryn Méndez\Lab 1.Katheryn Méndez\bin\Debug\net7.0\Lab 1.Katheryn Méndez.deps.json
+C:\Progra II\Lab 1.Katheryn Méndez\Lab 1.Katheryn Méndez\bin\Debug\net7.0\Lab 1.Katheryn Méndez.runtimeconfig.json
+C:\Progra II\Lab 1.Katheryn Méndez\Lab 1.Katheryn Méndez\bin\Debug\net7.0\Lab 1.Katheryn Méndez.dll
+C:\Progra II\Lab 1.Katheryn Méndez\Lab 1.Katheryn Méndez\bin\Debug\net7.0\Lab 1.Katheryn Méndez.pdb
+C:\Progra II\Lab 1.Katheryn Méndez\Lab 1.Katheryn Méndez\obj\Debug\net7.0\Lab 1.Katheryn Méndez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progra II\Lab 1.Katheryn Méndez\Lab 1.Katheryn Méndez\obj\Debug\net7.0\Lab 1.Katheryn Méndez.AssemblyInfoInputs.cache
+C:\Progra II\Lab 1.Katheryn Méndez\Lab 1.Katheryn Méndez\obj\Debug\net7.0\Lab 1.Katheryn Méndez.AssemblyInfo.cs
+C:\Progra II\Lab 1.Katheryn Méndez\Lab 1.Katheryn Méndez\obj\Debug\net7.0\Lab 1.Katheryn Méndez.csproj.CoreCompileInputs.cache
+C:\Progra II\Lab 1.Katheryn Méndez\Lab 1.Katheryn Méndez\obj\Debug\net7.0\Lab 1.Katheryn Méndez.dll
+C:\Progra II\Lab 1.Katheryn Méndez\Lab 1.Katheryn Méndez\obj\Debug\net7.0\refint\Lab 1.Katheryn Méndez.dll
+C:\Progra II\Lab 1.Katheryn Méndez\Lab 1.Katheryn Méndez\obj\Debug\net7.0\Lab 1.Katheryn Méndez.pdb
+C:\Progra II\Lab 1.Katheryn Méndez\Lab 1.Katheryn Méndez\obj\Debug\net7.0\Lab 1.Katheryn Méndez.genruntimeconfig.cache
+C:\Progra II\Lab 1.Katheryn Méndez\Lab 1.Katheryn Méndez\obj\Debug\net7.0\ref\Lab 1.Katheryn Méndez.dll
